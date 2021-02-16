@@ -1,0 +1,35 @@
+
+1st Output:::::
+runfile('C:/Users/vikas/Desktop/nk/JNU Official/psp/sample_space1.py', wdir='C:/Users/vikas/Desktop/nk/JNU Official/psp')
+::::::::
+
+2
+# of sample space: 4
+HH
+HT
+TH
+TT
+heads occurs 1
+tails occurs 1
+Probability of Heads: 0.25
+Probabilty of Tails: 0.25
+ 
+ 
+ 2nd Output::::::
+ 
+runfile('C:/Users/vikas/Desktop/nk/JNU Official/psp/sample_space1.py', wdir='C:/Users/vikas/Desktop/nk/JNU Official/psp')
+
+3
+# of sample space: 8
+HHH
+HHT
+HTH
+HTT
+THH
+THT
+TTH
+TTT
+heads occurs 1
+tails occurs 2
+Probability of Heads: 0.125
+Probabilty of Tails: 0.25
